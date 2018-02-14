@@ -1,0 +1,12 @@
+.names{
+	margin-left: 30%;
+	margin-top: 15%; 
+	width: 60%;
+	height: 80%;
+}
+li{
+	display: inline;
+}
+.name{
+	text-align: center;
+}
